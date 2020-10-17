@@ -1,4 +1,5 @@
 @EndUserText.label: 'Purchase Query'
 define service ZRISHI_SD_PurchaseQuery {
   expose ZC_RISHI_PURCHASEQUERY;
+  expose zi_test_query_Association;
 }

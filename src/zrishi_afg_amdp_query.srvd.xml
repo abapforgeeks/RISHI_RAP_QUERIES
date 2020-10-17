@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <SRVD>
-    <NAME>ZRISHI_SD_PURCHASEQUERY</NAME>
+    <NAME>ZRISHI_AFG_AMDP_QUERY</NAME>
     <TYPE>SRVD/SRV</TYPE>
-    <DESCRIPTION>Purchase Query</DESCRIPTION>
+    <DESCRIPTION>Query</DESCRIPTION>
     <LANGUAGE>EN</LANGUAGE>
     <LINKS>
      <item>
@@ -13,11 +13,11 @@
        <UNDEFINED_ATTRIBUTES>
         <item>
          <NAME>etag</NAME>
-         <TEXT>19710401000000001text/plain_64gofTmxeAXPIRZyedeVJI4mDWc=</TEXT>
+         <TEXT>19710401000000001text/plain_Mrr1eurgmkLWigKkjzkRFN6HkjE=</TEXT>
         </item>
        </UNDEFINED_ATTRIBUTES>
       </COMMON_ATTRIBUTES>
-      <HREF>./zrishi_sd_purchasequery/source/main</HREF>
+      <HREF>./zrishi_afg_amdp_query/source/main</HREF>
       <REL>http://www.sap.com/adt/relations/source</REL>
       <TYPE>text/plain</TYPE>
       <TITLE>Source Content</TITLE>
@@ -30,19 +30,19 @@
         </item>
        </UNDEFINED_ATTRIBUTES>
       </COMMON_ATTRIBUTES>
-      <HREF>./zrishi_sd_purchasequery/source/main</HREF>
+      <HREF>./zrishi_afg_amdp_query/source/main</HREF>
       <REL>http://www.sap.com/adt/relations/source</REL>
       <TYPE>text/html</TYPE>
       <TITLE>Source Content (HTML)</TITLE>
      </item>
      <item>
-      <HREF>./zrishi_sd_purchasequery/source/main/versions</HREF>
+      <HREF>./zrishi_afg_amdp_query/source/main/versions</HREF>
       <REL>http://www.sap.com/adt/relations/versions</REL>
       <TITLE>Historic versions</TITLE>
      </item>
     </LINKS>
     <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
-    <SOURCE_URI>./zrishi_sd_purchasequery/source/main</SOURCE_URI>
+    <SOURCE_URI>./zrishi_afg_amdp_query/source/main</SOURCE_URI>
     <SOURCE_TYPE>ABAP_SOURCE</SOURCE_TYPE>
     <SOURCE_ORIGIN_DESCRIPTION>ABAP Development Tools</SOURCE_ORIGIN_DESCRIPTION>
     <SRVD_SOURCE_TYPE>S</SRVD_SOURCE_TYPE>
