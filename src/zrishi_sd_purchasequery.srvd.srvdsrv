@@ -1,0 +1,4 @@
+@EndUserText.label: 'Purchase Query'
+define service ZRISHI_SD_PurchaseQuery {
+  expose ZC_RISHI_PURCHASEQUERY;
+}
