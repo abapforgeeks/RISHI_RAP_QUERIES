@@ -2,7 +2,7 @@
 @ObjectModel.query.implementedBy: 'ABAP:ZCL_RISHI_PURCHASEQUERY'
 @Search.searchable: true
 define root custom entity ZC_RISHI_PURCHASEQUERY
-
+ 
 {
 
       @UI.lineItem      : [{ position:  10 ,label: 'Purchase Document'}]

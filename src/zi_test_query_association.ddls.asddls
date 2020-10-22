@@ -13,7 +13,6 @@ association[0..*] to zc_rishi_purchasequery as _test on $projection.po_document 
     label:'Items',
     targetQualifier:'_test'  
     }
-    
     ]
     key po_document,
     po_desc,
